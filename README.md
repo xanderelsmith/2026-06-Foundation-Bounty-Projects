@@ -47,7 +47,7 @@ Inside the `projects/` folder:
 
 Example:
 ```txt
-projects/solbase.md
+projects/my-product.md
 ```
 
 ---
