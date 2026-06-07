@@ -11,7 +11,7 @@ ToroBank is a fully-featured, decentralized Web3 wallet built entirely in Flutte
 It natively utilizes the `toronet` Flutter SDK (`ToronetClient`) and raw Toronet Node APIs via `dio` to query balances, resolve Toronet Name Service (TNS) usernames, and execute peer-to-peer token transfers. The application demonstrates how to auto-enroll users on the Toronet testnet and securely manage cross-currency settlements.
 
 **Why we are interested:** 
-We built ToroBank to prove that developing on Web3 doesn't have to be complex. We wanted to eliminate the steep learning curves of Solidity and MetaMask injections and demonstrate that developers can build powerful, user-friendly decentralized financial tools and web store integrations using regular fiat currencies.
+We built ToroBank to prove that developing on Web3 doesn't have to be complex. A major driving force behind this project is to serve as a comprehensive onboarding tool for newbies. We want developers to easily get familiar with Toronet by exploring how each core feature (balances, P2P transfers, TNS resolution, bridging, and deep-link payments) is implemented in a real, production-grade application. We wanted to eliminate the steep learning curves of Solidity and MetaMask injections and demonstrate that developers can build powerful decentralized financial tools using regular fiat currencies.
 
 **Demo:** 
 [Link to the 100 Seconds Speedrun Video]
