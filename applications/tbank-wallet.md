@@ -20,8 +20,10 @@ We built ToroBank to prove that developing on Web3 doesn't have to be complex. W
 ### ***the deeplink payment preview***
 [![TBank Video](https://img.youtube.com/vi/rq2wyV3MVis/0.jpg)](https://youtu.be/rq2wyV3MVis)
 
-### ***X post*** 
-[![Check out the update on X](https://pbs.twimg.com/ext_tw_video_thumb/2063509198806130688/pu/img/349gClFVDh0LHGLH?format=jpg&name=120x120)](https://x.com/thetechyxander/status/2063509250014351651?s=20)
+### ***X post : https://x.com/thetechyxander/status/2063509250014351651?s=20***
+[![Check out the update on X](https://pbs.twimg.com/ext_tw_video_thumb/2063509198806130688/pu/img/349gClFVDh0LHGLH?format=jpg&name=120x120)]
+
+
 
 **Related Repositories:**
 - **T-store (Test Web Store):** https://github.com/xanderelsmith/T-store (Demonstrates the e-commerce deep-link checkout flow connected to ToroBank)
