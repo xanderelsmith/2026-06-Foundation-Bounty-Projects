@@ -50,7 +50,8 @@ here: https://t-store-umber.vercel.app/
 ToroBank acts as both a consumer-facing app and essential platform infrastructure. It serves as the critical bridge between end-users holding Toronet assets and decentralized applications or web stores wanting to accept Web3 payments.
 
 **Target Audience:** 
-Everyday consumers who want a beautiful, simple interface for their assets, and merchants looking for a frictionless way to accept Toronet payments without forcing users to interact with complex browser extensions.
+- Everyday Developers that want to speed up  their development with toronet and looking for a real application
+- Everyday consumers who want a beautiful, simple interface for their assets, and merchants looking for a frictionless way to accept Toronet payments without forcing users to interact with complex browser extensions.
 
 **Problems Solved:**
 - Abstracts away complex smart contracts for simple P2P transfers.
