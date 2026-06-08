@@ -40,7 +40,6 @@ here: https://t-store-umber.vercel.app/
 - **Deep Link Interception:** Listens to `torobank://sign-tx` payloads from external Web Stores, parses transaction parameters, and opens a transaction approval screen. Once the user signs the transaction with their PIN, ToroBank triggers a callback URL to the web store with the transaction hash for order fulfillment.
 
 **What your project will NOT provide:**
-- We do not manage 12-word seed phrase generation natively in this demo; we focus entirely on the secure PIN-based account abstraction native to Toronet.
 - We do not provide an exhaustive backend indexer, relying purely on the decentralized Toronet node ledger.
 
 ---
