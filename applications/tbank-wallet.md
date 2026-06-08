@@ -23,6 +23,7 @@ We built ToroBank to prove that developing on Web3 doesn't have to be complex. W
 **Related Repositories:**
 - **T-store (Test Web Store):** https://github.com/xanderelsmith/T-store (Demonstrates the e-commerce deep-link checkout flow connected to ToroBank)
 
+here: https://t-store-umber.vercel.app/
 ---
 
 ## 🔍 Project Details
