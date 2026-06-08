@@ -21,7 +21,7 @@ We built ToroBank to prove that developing on Web3 doesn't have to be complex. W
 [![TBank Video](https://img.youtube.com/vi/rq2wyV3MVis/0.jpg)](https://youtu.be/rq2wyV3MVis)
 
 ### ***X post : https://x.com/thetechyxander/status/2063509250014351651?s=20***
-[![Check out the update on X](https://pbs.twimg.com/ext_tw_video_thumb/2063509198806130688/pu/img/349gClFVDh0LHGLH?format=jpg&name=120x120)]
+[![Check out the update on X](https://pbs.twimg.com/ext_tw_video_thumb/2063509198806130688/pu/img/349gClFVDh0LHGLH?format=jpg&name=120x120)](https://x.com/thetechyxander/status/2063509250014351651?s=20)
 
 
 
